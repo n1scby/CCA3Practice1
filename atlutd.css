@@ -1,0 +1,25 @@
+body{font-family: helvetica, sans-serif;
+     margin: 20px;     
+}
+
+h1 {
+    color: #a1223c;
+    font-size: 250%;
+    background-image: url(images/ATLUTD.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 200px;  
+    margin-bottom: 20px;
+}
+
+h3 {font-size: 200%;}
+
+ul {font-size: 150%;}
+
+#atlutd {border-style: double;
+         border-width: 2px;
+         padding: 75px;
+         margin-right: 800px;
+         background-color: #A69866;
+        
+}
